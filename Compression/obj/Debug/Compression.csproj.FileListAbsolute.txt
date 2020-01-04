@@ -1,0 +1,8 @@
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\Compression\obj\Debug\Compression.Properties.Resources.resources
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\Compression\obj\Debug\Compression.Properties.Resources.resources
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
